@@ -1,0 +1,6 @@
+platform :ios, '8.1'
+pod 'JSONKit'
+pod 'Reachability'
+pod 'ASIHTTPRequest'
+pod 'RongCloudIMKit'
+pod 'MMProgressHUD'

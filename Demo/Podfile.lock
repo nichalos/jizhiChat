@@ -1,0 +1,31 @@
+PODS:
+  - ASIHTTPRequest (1.8.2):
+    - ASIHTTPRequest/ASIWebPageRequest (= 1.8.2)
+    - ASIHTTPRequest/CloudFiles (= 1.8.2)
+    - ASIHTTPRequest/Core (= 1.8.2)
+    - ASIHTTPRequest/S3 (= 1.8.2)
+  - ASIHTTPRequest/ASIWebPageRequest (1.8.2):
+    - ASIHTTPRequest/Core
+  - ASIHTTPRequest/CloudFiles (1.8.2):
+    - ASIHTTPRequest/Core
+  - ASIHTTPRequest/Core (1.8.2):
+    - Reachability
+  - ASIHTTPRequest/S3 (1.8.2):
+    - ASIHTTPRequest/Core
+  - JSONKit (1.4)
+  - Reachability (3.2)
+  - RongCloudIMKit (1.3.4)
+
+DEPENDENCIES:
+  - ASIHTTPRequest
+  - JSONKit
+  - Reachability
+  - RongCloudIMKit
+
+SPEC CHECKSUMS:
+  ASIHTTPRequest: 2c8335b49410c0e2ad42829c438e74d454b77590
+  JSONKit: 2111ac2b11f7ea0d07bb1d9d09e650918336a134
+  Reachability: 1ef8adf5c4e3d362f96515d4278f68dad3c26930
+  RongCloudIMKit: 154c506e04000e5d63b1bb1fbe0b7256ef6e6a52
+
+COCOAPODS: 0.35.0
